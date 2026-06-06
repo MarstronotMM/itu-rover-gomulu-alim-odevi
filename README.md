@@ -26,3 +26,6 @@ STM32F103C8T6 üzerinde UART mesajına göre 2 GPIO pinini (PA0, PA1) kontrol ed
 ## Seri Port Ayarları
 
 115200 baud, 8N1
+
+
+Demir Alan tarafından yazıldı.
