@@ -10,7 +10,7 @@
  *   - 72 MHz ARM Cortex-M3, bu görev için yeterli işlem gücü
  *   - 2 adet USART, 37 GPIO pini — UART + GPIO için ideal
  *   - Geniş HAL kütüphanesi ve topluluk desteği
- *   - STM32CubeIDE ile doğrudan uyumlu
+ *   - Elimde bulunan model bu
  *
  * Donanım Bağlantıları:
  *   USART1 TX → PA9   (bilgisayara gönderim, isteğe bağlı)
